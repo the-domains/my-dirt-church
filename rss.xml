@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[My Dirt Church]]></title>
         <description><![CDATA[My Dirt Church]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-dirt-church/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 18:55:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 Nov 2015 15:12:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-dirt-church/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[...when you're able to Jeep in...]]></title>
+            <description><![CDATA[<article><h1>...when you're able to Jeep in...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a1c585a-bb2a-409a-9f50-b591ae6eae45.png"></article>]]></description>
+            <link>https://thegrid.ai/my-dirt-church/when-youre-able-to-jeep-in/index.html</link>
+            <guid isPermaLink="false">c41e28fc-dd7b-4ca0-ac43-66ba9030ea02</guid>
+            <pubDate>Tue, 24 Nov 2015 15:12:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ocala National Forest]]></title>
             <description><![CDATA[<article><h1>Ocala National Forest</h1><p>Maryellen Kennedy Duckett The Ocala National Forest, north of Orlando, is the world's largest contiguous sand pine scrub forest at nearly 383,000 acres. That means that a sand ridge of dunes, which were once a chain of islands before the sea retreated 25 million years ago, runs through an area primarily populated by sand pines.</p><img src="http://images.nationalgeographic.com/wpf/media-content/photos/000/913/cache/91399_990x742-cb1440102458.jpg"></article>]]></description>
