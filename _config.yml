@@ -1,14 +1,26 @@
-layout_spectrum: 0.5
-color:
-  saturation: 0.8041895
-  lightness: 0.7952461
-  brandStrength: 0.7199796
-  rhythmicContrast: 0.3818018
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5899536
+color:
+  saturation: 0.9844254
+  brandStrength: 0.9962406
+  lightness: 0.7126746
+  brandColors:
+    - '#F1DFE1'
+    - '#1E170D'
+    - '#9AA4B4'
+    - '#CF885C'
+    - '#A3201F'
+  rhythmicContrast: 0.5719656
+layout_spectrum: 0.5
 name: My Dirt Church
