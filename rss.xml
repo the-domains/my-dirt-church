@@ -4,8 +4,15 @@
         <description><![CDATA[My Dirt Church]]></description>
         <link>https://thegrid.ai/my-dirt-church/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 15:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 00:37:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-dirt-church/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trip Reports]]></title>
+            <description><![CDATA[<h1>Trip Reports</h1>]]></description>
+            <link>https://thegrid.ai/my-dirt-church/trip-reports/index.html</link>
+            <guid isPermaLink="false">8fa77d56-943c-4d89-bc8f-d3aa39427f43</guid>
+            <pubDate>Tue, 01 Dec 2015 00:37:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[North and South views]]></title>
             <description><![CDATA[<article><h1>North and South views</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a12438ba-6617-4eb9-84be-40a5c231e51e.png"></article>]]></description>
