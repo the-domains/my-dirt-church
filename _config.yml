@@ -1,40 +1,40 @@
-name: My Dirt Church
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.41299
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+purpose: []
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.2228786
+  brandColors:
+    - '#20201F'
+    - '#FFFCFF'
+    - '#CFC6B4'
+    - '#B4785C'
+    - '#4A30BC'
+  rhythmicContrast: 0.66971
+typography_spectrum: 0.2529538
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#F1DFE1'
-    - '#1E170D'
-    - '#9AA4B4'
-    - '#CF885C'
-    - '#A3201F'
-  brandStrength: 0.9962406
-  lightness: 0.75
-  saturation: 0.9844254
-  rhythmicContrast: 1
-purpose: []
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: My Dirt Church
