@@ -1,5 +1,4 @@
-favicon: null
-name: My Dirt Church
+layout_spectrum: 0.9758323
 opengraph:
   image: null
   type: null
@@ -19,7 +18,7 @@ collections:
 purpose: []
 color:
   saturation: 0.83942
-  brandStrength: 1
+  brandStrength: 0.03920516
   lightness: 0.6589689
   brandColors:
     - '#E9B56D'
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9758323
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: My Dirt Church
