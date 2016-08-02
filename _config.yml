@@ -37,6 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: '#MyDirtChurch'
+title: Dirt Church
 description: not all who wander are lost
 purpose: []
