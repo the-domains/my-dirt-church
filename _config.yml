@@ -1,8 +1,30 @@
-layout_spectrum: 0.9758323
+typography_spectrum: 0.42119
+color:
+  saturation: 0.83942
+  brandStrength: 0.03920516
+  lightness: 0.6589689
+  brandColors:
+    - '#E9B56D'
+    - '#BEB3BD'
+    - '#02010C'
+    - '#397FBD'
+    - '#041665'
+  rhythmicContrast: 0.6525242
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9758323
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: My Dirt Church
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,26 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+description: not all who wander are lost
 purpose: []
-color:
-  saturation: 0.83942
-  brandStrength: 0.03920516
-  lightness: 0.6589689
-  brandColors:
-    - '#E9B56D'
-    - '#BEB3BD'
-    - '#02010C'
-    - '#397FBD'
-    - '#041665'
-  rhythmicContrast: 0.6525242
-typography_spectrum: 0.42119
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: My Dirt Church
