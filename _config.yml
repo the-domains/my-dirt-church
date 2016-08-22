@@ -31,6 +31,9 @@ navigation:
   - name: Gear List
     url: 'https://thegrid.ai/my-dirt-church/gear-list/'
     type: external
+  - name: Social
+    url: 'https://thegrid.ai/my-dirt-church/social/'
+    type: external
 favicon: null
 collections:
   - index:
