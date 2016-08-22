@@ -34,6 +34,9 @@ navigation:
   - name: Contact
     url: 'https://thegrid.ai/my-dirt-church/contact/'
     type: external
+  - name: Trip Reports
+    id: fd4e5e97-6b64-4d21-a524-1bfc0f652729
+    type: content
 favicon: null
 collections:
   - index:
