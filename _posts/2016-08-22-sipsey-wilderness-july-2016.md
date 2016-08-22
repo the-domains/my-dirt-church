@@ -1,13 +1,13 @@
 ---
 description: Eagle Falls Camp
-dateModified: '2016-08-22T16:43:49.129Z'
-datePublished: '2016-08-22T16:44:08.992Z'
+dateModified: '2016-08-22T16:46:46.744Z'
+datePublished: '2016-08-22T16:46:46.949Z'
 title: Sipsey Wilderness - July 2016
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-22-sipsey-wilderness-july-2016.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
