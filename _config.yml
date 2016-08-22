@@ -24,6 +24,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Details for each trip
+    url: 'https://thegrid.ai/my-dirt-church/trip-reports/'
+    type: external
 favicon: null
 collections:
   - index:
