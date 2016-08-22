@@ -34,6 +34,9 @@ navigation:
   - name: Social
     url: 'https://thegrid.ai/my-dirt-church/social/'
     type: external
+  - name: Contact
+    url: 'https://thegrid.ai/my-dirt-church/contact/'
+    type: external
 favicon: null
 collections:
   - index:
