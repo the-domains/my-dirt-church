@@ -28,6 +28,9 @@ navigation:
   - name: Trip Reports
     url: 'https://thegrid.ai/my-dirt-church/trip-reports/'
     type: external
+  - name: Gear List
+    url: 'https://thegrid.ai/my-dirt-church/gear-list/'
+    type: external
 favicon: null
 collections:
   - index:
