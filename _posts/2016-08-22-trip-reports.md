@@ -1,17 +1,16 @@
 ---
 description: expedition 411
-dateModified: '2016-08-22T16:49:03.930Z'
-datePublished: '2016-08-22T16:49:55.326Z'
+dateModified: '2016-08-22T16:50:21.528Z'
+datePublished: '2016-08-22T16:50:21.834Z'
 title: Trip Reports
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-22-trip-reports.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: trip-reports/index.html
+_type: Blurb
 
 ---
 # Trip Reports
